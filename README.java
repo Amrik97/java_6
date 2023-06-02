@@ -1,5 +1,5 @@
 # java_6
-package java_6;
+package java_1;
 
 public class NoteBook {
     private String brand;
